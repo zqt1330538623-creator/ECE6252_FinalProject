@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "ECE6252 Final Project — Gemma API Reproduction Package"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: Zheng
+    given-names: Qingtian
+  - family-names: Yin
+    given-names: Shizhu
+repository-code: "https://github.com/zqt1330538623-creator/ECE6252_FinalProject"
+license: MIT
+version: "0.1.0"
+date-released: 2026-04-22
